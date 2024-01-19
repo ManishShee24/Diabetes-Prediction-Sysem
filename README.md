@@ -1,4 +1,4 @@
-# Diabetes-Prediction-Sysem
+# Diabetes-Prediction-System
 Diabetes prediction models use machine learning algorithms to classify diabetes.
 
 These models include external factors that contribute to diabetes, such as age, BMI, glucose, and insulin. 
